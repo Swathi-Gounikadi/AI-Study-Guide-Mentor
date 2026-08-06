@@ -258,12 +258,12 @@ streamlit run app.py
 
 Add screenshots of:
 
-<img width="1912" height="915" alt="image" src="https://github.com/user-attachments/assets/54037248-a290-4514-9f5f-d8a6543abc18" />
-<img width="1910" height="896" alt="image" src="https://github.com/user-attachments/assets/65f03b14-a61d-4b00-b08f-45481be0c291" />
-<img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/3567b809-2fe3-4fe6-9f38-12bbb67bdedc" />
-<img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/9f59d95a-bee5-41c1-8c9a-590af532694b" />
-<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/b116fa25-a13c-41de-9bd9-b8bb9049b354" />
-<img width="1886" height="912" alt="image" src="https://github.com/user-attachments/assets/b9446d5e-8ce9-41b6-b83d-f3a22fcb3c47" />
+<img width="1912" height="915" alt="Screenshot 2026-08-06 121119" src="https://github.com/user-attachments/assets/307da173-af0a-406d-9895-db963fa8c4d4" />
+<img width="1910" height="896" alt="Screenshot 2026-08-06 121227" src="https://github.com/user-attachments/assets/e65f6f21-1a90-4ffd-ba4a-233dec42b164" />
+<img width="1915" height="912" alt="Screenshot 2026-08-06 121302" src="https://github.com/user-attachments/assets/2b027f4f-638c-41c4-a2fa-59361c845288" />
+<img width="1913" height="877" alt="Screenshot 2026-08-06 121400" src="https://github.com/user-attachments/assets/ab8f1006-7e8d-4c2a-a20a-bb7c16e90f1a" />
+<img width="1917" height="911" alt="Screenshot 2026-08-06 121434" src="https://github.com/user-attachments/assets/01e0e328-ea06-4bfa-9cfc-deb1a9743277" />
+<img width="1886" height="912" alt="Screenshot 2026-08-06 121551" src="https://github.com/user-attachments/assets/f97aaafb-94f4-4852-a84f-c48a80b51165" />
 
 # 🎯 Example Skills
 
