@@ -9,12 +9,29 @@ The application generates customized learning plans, provides an AI mentor for d
 ## 🚀 Live Demo
 
 👉 **Hugging Face Space**
+This project dynamically generates:[]
 
+Personalized learning paths
+Skill roadmaps
+Learning phases
+Recommended resources
+YouTube channel suggestions
+Project recommendations
+Quiz questions
+PDF downloadable roadmaps
+based on the user's:
+
+Skill/domain
+Current level
+Learning goal
+Study hours
+Learning style
+📌
 ---
 
 # ✨ Features
 
-## 📚 Personalized Learning Roadmaps
+# Personalized Learning Roadmaps
 
 Generate structured learning paths for any skill based on:
 
